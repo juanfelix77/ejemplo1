@@ -1,4 +1,7 @@
 class Avionica():
+    """"""
+
+    var ="AVIONICA"
     def __init__(self,tipo,serie,unidad):
         self.tipo=tipo
         self.serie=serie
